@@ -1,1 +1,1 @@
-# Krupali-Patel
+# Krupali Patel Telecom Churn Analysis Project
