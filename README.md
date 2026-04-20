@@ -27,6 +27,20 @@ new ones. This project aims to:
   (Contract type, Payment method, Monthly charges, Tenure)
 - **Target variable:** `Churn Label` (Yes / No)
 
+## 📋 Data Dictionary (Key Columns)
+
+| Column | Description |
+|---|---|
+| `Customer ID` | Unique customer identifier |
+| `Tenure in Months` | How long the customer has been with the company |
+| `Contract` | Contract type (Month-to-Month, One Year, Two Year) |
+| `Monthly Charge` | Amount charged per month |
+| `Churn Label` | Target variable — Yes if customer churned, No if retained |
+| `Churn Score` | Propensity score for churn (0–100) |
+| `CLTV` | Customer Lifetime Value |
+| `Internet Type` | Type of internet service (Fiber, DSL, etc.) |
+| `Payment Method` | How the customer pays |
+| `Satisfaction Score` | Customer satisfaction rating |
 ---
 
 ## 🔍 Project Workflow
